@@ -1,37 +1,361 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TUTS</title>
+    <link rel="stylesheet" href="tut.css">
+</head>
+<body>
+    <h1>TUTS HOME</h1>
+    
+    <div class="topnav">
+        <a class="active" href="#home"></a>
+        <a href="#Home">Home</a>
+        <input type="text" placeholder="Search..">
+    </div>
 
-You can use the [editor on GitHub](https://github.com/judeblak/tut/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Clients</a>
+        <a href="#">Contact<div class="container">
+  
+</div></a>
+  
+<div>
+      </div>
+      
+      <p>Click on the element below to open the side navigation menu.</p>
+      <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Click me</span>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      </div>
+</body>
 
-### Markdown
+<body>
+  <div style="background-image: url('..tutsite\img2\shoe.JPG);"></div>
+</body>
+</html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<script>
+    function openNav() {
+      document.getElementById("mySidenav").style.width = "250px";
+    }
+    
+    function closeNav() {
+      document.getElementById("mySidenav").style.width = "0";
+    }
+    </script>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<html>
+  
+    <h2>Here is a Great list of Places, you can purchase Bitcoins</h2>
 
-- Bulleted
-- List
+       <ul> <h3>*South Africa*🇿🇦</h3>
+        1. www.luno.com
+        2. www.altcointrader.co.za 
+        3. Localbitcoin.com
+        4. www.coinmama.com 
+        </ul></p>
+        <hr>
+        <p><ul>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+        <h3>*Kenya*🇰🇪</h3>
+        1. www.localbitcoins.com 
+        2. www.coinmama.com 
+        3. www.belfrics.io 
+        4. www.bitpesa.com 
+        5. www.remitano.com 
+        </ul></p>
+<hr>
 
-[Link](url) and ![Image](src)
-```
+        <h3>*Botswana*🇧🇼</h3>
+        <p><ul>1. www.spectrocoin.com
+        2.  www.flux.com 
+        3.  www.coinmama.com 
+        4. www.localbitcoins.com </ul></p>
+        <hr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+        <h3>*Ghana*🇬🇭</h3>
+        1. www.localbitcoins.com  
+        2. www.coinmama.com
+        3.www.payplux.com</p>
+<hr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/judeblak/tut/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+        <h3>*Namibia*🇳🇦</h3>
+        <p>1. www.coinmama.com 
+        2. www.altcointrader.co.za</p>
+        <hr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+        <h3>*Malawi*🇲🇼</h3>
+        <p>1. www.coinmama.com 
+        2.  www.cex.io </p>
+        <hr>
+
+
+        <h3>*Zambia*🇿🇲</h3>
+        <p>1. www.coinmama.com 
+        2. www.cex.io </p>
+        <hr>
+
+
+        <h3>*Mozambique*🇲🇿
+        <p>1. Coinmama.com</p>
+        <hr>
+
+
+        <h3>*Swaziland/Lesotho*🇸🇿</h3>
+        1. www.altcointrader.co.za 
+        2. www.coinmama.com 
+        <hr>
+
+
+        <h3>*Zimbabwe*🇿🇼,</h3>
+        1. www.golix.com 
+        2. www.localbitcoins.com 
+        <hr>
+
+
+
+        <h3>*Tanzania*🇹🇿</h3>
+        1. www.localbitcoins.com 
+        2. www.remitano.com 
+        3. www.coinmama.com 
+        <hr>
+
+
+        <h3>*United Kingdom*🇬🇧</h3>
+        1. www.spectrocoin.com 
+        2. www.luno.com 
+        3. www.worldwidebitcoin.com
+        4. www.localbitcoins.com
+        <hr>
+
+
+
+        <h3>United states 🇺🇸</h3>
+        1. www.coinbase.com 
+        2. www.localbitcoins.com
+        3. www.luno.com
+        <hr>
+
+
+
+        <h3>*India🇮🇳</h3>
+        1. www.coinbase.com 
+        2. www.localbitcoins.com
+        <hr>
+
+
+
+        <h3>*Canada🇨🇦</h3>
+        1. www.shakepay.com
+        2. www.coinbase.com 
+        3. www.localbitcoins.com
+        <hr>
+
+
+
+        <h3>Cambodia 🇰🇭</h3>
+        1. www.localbitcoins.com 
+        2. www.blockchain.com 
+        <hr>
+
+
+
+        <h3>*Philippines 🇵🇭</h3>
+        1. www.Coins.ph
+        <hr>
+
+
+        <h3>*Malaysia 🇲🇾</h3>
+        1.  www.localbitcoin.com
+        2.  www.blockchain.com
+        <hr>
+
+
+
+        <h3>*Germany 🇩🇪</h3>
+        1. www.blockchain.com 
+        2. www.localbitcoins.com 
+         <hr>
+
+
+
+        <h3>*Pakistan 🇵🇰</h3>
+        1. www.localbitcoins.com 
+        2. www.coinbase.com 
+        <hr>
+
+
+
+        <h3>*Kuwait 🇰🇼</h3>
+        1. www.localbitcoins.com 
+        2. www.blockchain.com 
+        3. www.luno.com 
+        4 www.coinbase.com 
+          <hr>
+
+
+        <h3>*Saudi Arabia 🇸🇦</h3>
+        1. www.luno.com 
+        2. www.localbitcoins.com 
+        <hr>
+
+
+        <h3>*Lebanon 🇱🇧</h3>
+        1. www.localbitcoins.com 
+        2. www.luno.com 
+        3. www.coinbase.com 
+          <hr>
+
+
+        <h3>*Singapore 🇸🇬</h3>
+        <p>1. www.localbitcoins.com 
+        2. www.coinbase.com 
+        3. www.blockchain.com </p>
+          <hr>
+
+
+        <h3>*Japan 🇯🇵</h3>
+       <p> 1. www.luno.com 
+        2. www.localbitcoins.com 
+        3. www.coinbase.com</p>
+
+      
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+
+
+<h2>NEXT TUT</h2>
+<p>THESE ARE LINKS ON HOW TO: </p>
+
+<p> 1. How To Own A USA Phone Number for Free <a href="#"> https://androidtechvilla.com/how-to-own-a-usa-phone-numbers/ </a></p>
+<p>2. How To Own A USA, UK, Canada and EUR Bank account For Free With Payoneer <a href="#"> https://androidtechvilla.com/how-to-own-usa-uk-canada-eur-bank-account-payoneer/
+</a></p>
+<p>3. How To Bypass Online Credit card Verification <a href="#"> https://androidtechvilla.com/how-to-bypass-online-credit-card-verification/</a></p>
+<p>4. How To Get free USA 🇺🇸 CANADA And UK 🇬🇧 phone number <a href="#"> https://androidtechvilla.com/how-to-get-free-usa-uk-canada-phone-number-whatsapp-2020/</a></p>
+<p>5.  How to keep your paypay account safe of limitations <a href="#">https://androidtechvilla.com/paypal-account-safe-limitations-suspensions/)
+</a></p>
+
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>  
+
+
+<p>
+  <h3>🔰MY VANILLA UPDATE.🔰</h3>
+
+
+  <p>TOOLS NEEDED</p>
+<p>1. Paid VPN/ socks 5 / rdp</p>
+<p>2. Your Phone or Your PC</p>
+<p>3. Let your client Activate your MyVanilla card </p>
+<p>4.Bank logs with email access</p>
+
+<p>Tutorial</p>
+
+<p>1. Connect your vpn. </p>
+
+<p>2. Then log into the bank logs you bought.</p>
+
+<p>You can use Bluefcu bank log or Woodforest logs. (At the end of this Tutorial I will post a channel I came by that sells logs but have not used it before so I will advise you use escrow when buying. Am not recommending because have not used it.</p>
+
+<p>3.Once you log into the bank log. On the navigation bar on the website you will see payments.</p>
+
+
+<p>4. Click on Payment </p>
+
+
+<p>5. Then click on Add payee</p>
+
+<p>6. You will be direct to page to where you need to payee informations</p>
+
+
+<p>7. At the payee type select Pay a Person</p>
+
+<p>8. Then type payee name on the next at the payee name section ( you can type any name you want)</p>
+
+
+<p>9. At the phone number section type your client phone number</p>
+
+
+<p>10. When you see direct deposit box check it .</p>
+
+<p>11. Now, you will be ask of the  myvanilla card details</p>
+
+<p>12. Input the card details of the myvanilla card then tab on continue</p>
+
+
+<p>13. Then click on add payee</p>
+
+
+<p>14. After adding payee. The myvanilla card information has been added successfully to bank log u bought.</p>
+
+<p>15. Click on Payment again.</p>
+
+<p>16. This time around, click on pay bills</p>
+
+<p>17. Once you click on pay bills you should see the myvanilla card details you added</p>
+
+
+<p>18. Now choose the date you will like to send the cash.</p>
+
+<p>19.Type $5k in the  amounts section and  click on continue</p>
+  
+
+<p>Note: daily limit is $20k but like I said type $5k also the cash will be delivered in 2-3 business days </p>
+
+<p>20. Before you confirm payment. check if the myvanilla details you entered are correct ( I did a mistake on one of my loadings that's why am alerting you)</p>
+
+<p>21. Now confirm payment and relax for the cash to reflect. Like I said, it's will reflect between 2 - 3 days</p>
+
+
+<p>Once the cash is reflected. Tell your client to use the pin he received when he activated the card to go and cash the money out. </p>
+
+
+<p>You can repeat the above steps if the client successfully go Cash out.
+</p>
+
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr><hr>
+<hr><hr>
+<hr><hr>
+<hr><hr>
+<hr><hr>
+<hr>
+</html>
